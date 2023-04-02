@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none !important;
+    text-decoration: none !important;
+}
+
+.image {
+    height: 25vh !important;
+}
+
+.back-col {
+    background: linear-gradient(360deg, #40301B 0%, #2B2014 100%);
+    height: 85vh;
+}
+
+.back-coll {
+    height: 85vh;
+}
+
+.secti-on {
+    margin-top: 100px;
+}
+
+.lo {
+    width: 100%;
+}
+
+.logo {
+    width: 110%;
+}
+
+.log {
+    width: 50%;
+}
+
+.lo1 {
+    width: 90%;
+
+}
+
+.logo1 {
+    width: 110%;
+}
+
+.log1 {
+    width: 30%;
+}
+
+.wo-ow {
+    width: 5%;
+}
+
+.imge {
+    width: 80%;
+}
+
+.number {
+    border-radius: 50%;
+    padding-left:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:20px;
+    border: 1px solid #EDB037;
+}
